@@ -1,0 +1,12 @@
+[
+  {
+    "name": "jenkins",
+    "link": "http://jenkins.fscoding.com/login?from=%2F",
+    "port": 80
+  },
+  {
+    "name": "nexus",
+    "link": "http://jenkins.fscoding.com/login?from=%2F",
+    "port": 80
+  }
+]
