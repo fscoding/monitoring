@@ -1,12 +1,17 @@
 [
   {
     "name": "jenkins",
-    "link": "http://jenkins.fscoding.com/login?from=%2F",
+    "host": "jenkins.fscoding.com",
     "port": 80
   },
   {
     "name": "nexus",
-    "link": "http://jenkins.fscoding.com/login?from=%2F",
+    "host": "jenkins.fscoding.com",
+    "port": 80
+  },
+  {
+    "name": "nexus",
+    "host": "awdawdfscoding.com",
     "port": 80
   }
 ]
