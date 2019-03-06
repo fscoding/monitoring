@@ -33,7 +33,7 @@ class Monitoring():
 
     def addToMonitoring(self, name, host, port=80):
         self.data = self._databaseLoader()
-        self.data.append({'name': name, 'host' : host, 'port' :port})
+        self.data.append({'name':name, 'host':host, 'port':port})
 
     def deleteFromMonitoring(self, name):
         if name in self.data:
